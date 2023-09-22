@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("From PC 1");
         System.out.println("Hello world!");
+        System.out.println("From PC 2");
     }
 }
