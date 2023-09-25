@@ -3,4 +3,5 @@ public class ClasePrueba1 {
     private boolean a;
     private double b;
     private int c;
+    private int d;
 }
